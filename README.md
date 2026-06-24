@@ -242,7 +242,3 @@ Collision-tracker/
 **Kanish Reddy Vuyyuru [vuyyu011@umn.edu]**
 
 **Rajit Bhargav Mahesh [Mahes110@purdue.edu]**
-
-MS Data Science, University of Minnesota – Twin Cities
-
-Interests: Computer Vision, Machine Learning, Autonomous Systems, and AI for Real-World Safety Applications.
